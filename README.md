@@ -41,6 +41,3 @@ We compute SNR (dB) between a **reference (clean)** signal `x` and a **test** si
 - Support multiple wave types (square/triangle) and multi-tone signals.
 
 ---
-
-**Author:** You 🙂  
-**License:** MIT
