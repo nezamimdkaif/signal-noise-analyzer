@@ -1,3 +1,11 @@
+# Signal Noise Analyzer 📡  
+
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
+[![License](https://img.shields.io/github/license/nezamimdkaif/signal-noise-analyzer)](./LICENSE)  
+[![Last Commit](https://img.shields.io/github/last-commit/nezamimdkaif/signal-noise-analyzer?color=green)](https://github.com/nezamimdkaif/signal-noise-analyzer/commits/main)  
+[![Repo Size](https://img.shields.io/github/repo-size/nezamimdkaif/signal-noise-analyzer)](https://github.com/nezamimdkaif/signal-noise-analyzer)  
+[![Stars](https://img.shields.io/github/stars/nezamimdkaif/signal-noise-analyzer?style=social)](https://github.com/nezamimdkaif/signal-noise-analyzer/stargazers)  
+
 # Signal Noise Analyzer 📡
 
 A small, ECE-focused project that generates a clean sine signal, adds noise, applies a simple low-pass filter (moving average), and computes **Signal-to-Noise Ratio (SNR)** before and after filtering. It also visualizes the clean, noisy, and filtered signals.
