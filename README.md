@@ -47,3 +47,17 @@ We compute SNR (dB) between a **reference (clean)** signal `x` and a **test** si
 - Support multiple wave types (square/triangle) and multi-tone signals.
 
 ---
+
+## Dataset Images
+
+- Image 1  
+  ![Image 1](dataset/Dataset(1).png)
+
+- Image 2  
+  ![Image 2](dataset/Dataset(2).png)
+
+- Image 3  
+  ![Image 3](dataset/Dataset(3).png)
+
+- Image 4  
+  ![Image 4](dataset/Dataset(4).png)
