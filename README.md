@@ -48,16 +48,11 @@ We compute SNR (dB) between a **reference (clean)** signal `x` and a **test** si
 
 ---
 
-## Dataset Images
+## Dataset Preview
 
-- Image 1  
-  ![Image 1](dataset/Dataset(1).png)
-
-- Image 2  
-  ![Image 2](dataset/Dataset(2).png)
-
-- Image 3  
-  ![Image 3](dataset/Dataset(3).png)
-
-- Image 4  
-  ![Image 4](dataset/Dataset(4).png)
+| Image | Description |
+|-------|-------------|
+| ![Dataset1](dataset/Dataset1.png) | Sample image 1 – example content |
+| ![Dataset2](dataset/Dataset2.png) | Sample image 2 – example content |
+| ![Dataset3](dataset/Dataset3.png) | Sample image 3 – example content |
+| ![Dataset4](dataset/Dataset4.png) | Sample image 4 – example content |
